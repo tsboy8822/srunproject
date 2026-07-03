@@ -91,12 +91,11 @@ ul {
   font-family: 'Pretendard Variable', var(--font-sans);
   font-weight: 500;
   font-size: 11px;
-  letter-spacing: normal;
+  letter-spacing: 7px;
   width: 162px;
   display: block;
   white-space: nowrap;
-  text-align: justify;
-  text-align-last: justify;
+  text-align: center;
 }
 
 .brand-logo-img {
@@ -642,6 +641,8 @@ ul {
   .brand-en--variable {
     width: 112px;
     font-size: 9.5px;
+    letter-spacing: 4px;
+    text-align: center;
   }
 
   .brand {
