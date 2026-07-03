@@ -91,7 +91,7 @@ ul {
   font-family: 'Pretendard Variable', var(--font-sans);
   font-weight: 500;
   font-size: 11px;
-  letter-spacing: 8px;
+  letter-spacing: 8.5px;
   width: 162px;
   display: block;
   white-space: nowrap;
@@ -640,8 +640,8 @@ ul {
 
   .brand-en--variable {
     width: 112px;
-    font-size: 9.5px;
-    letter-spacing: 5px;
+    font-size: 8px;
+    letter-spacing: 5.5px;
     text-align: center;
   }
 
