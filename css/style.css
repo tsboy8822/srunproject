@@ -679,7 +679,7 @@ ul {
     left: 0;
     right: 0;
     background: var(--color-bg);
-    border-bottom: 1px solid var(--color-border);
+    /* border-bottom: 1px solid var(--color-border); */
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.3s ease;
