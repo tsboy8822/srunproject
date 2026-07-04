@@ -474,7 +474,7 @@ ul {
   text-align: left;
   font-size: 12.5px;
   line-height: 1.8;
-  color: #888888;
+  color: var(--color-text);
   margin-top: 8px;
 }
 
