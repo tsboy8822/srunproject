@@ -309,10 +309,10 @@ ul {
 
 .about-image img {
   display: block;
-  width: 90%;
-  height: 558px;
-  margin-left: auto;
-  object-fit: cover;
+  width: 75%;
+  height: auto;
+  max-height: 500px;  
+  margin-left: 0 auto;
 }
 
 /* ---------- Product page: slider ---------- */
