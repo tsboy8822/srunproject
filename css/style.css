@@ -274,6 +274,7 @@ ul {
   padding: 110px var(--side-padding);
   max-width: var(--content-max-width);
   margin: 0 auto;
+  transform: translateX(30px);
 }
 
 .about-text {
