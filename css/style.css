@@ -312,7 +312,7 @@ ul {
   display: block;
   width: 80%;
   height: auto;
-  max-height: 500px;  
+  max-width: 100%;  
   margin-left: 0 auto;
 }
 
@@ -575,7 +575,7 @@ ul {
   }
 
   .about-image img {
-    height: 432px;
+
   }
 
   .price-columns {
@@ -672,7 +672,6 @@ ul {
   }
 
   .about-image img {
-    height: 288px;
     margin-left: 0;
     margin-right: auto;
   }
